@@ -8,7 +8,7 @@ An enterprise-grade remote sensing and machine learning system engineered for sm
 
 | Explainable AI: Agronomic SHAP Feature Attribution | QGIS Cartographic Risk Atlas: PMFBY Parametric Triggers |
 | :---: | :---: |
-| ![SHAP Feature Importance](paddy_yield_shap_importance.png) | ![PMFBY Spatial Risk Atlas](india_paddy_pmfby_risk_map.png) |
+| ![SHAP Feature Importance](paddy_yield_shap_importance.png) | ![PMFBY Spatial Risk Atlas](paddy_yield_insurance.png) |
 | *SHAP summary indicating primary yield drivers: SAR structural ratio, extreme anthesis heat days, and dry spells.* | *Spatial distribution of 300 test village clusters: Crimson Red markers denote verified PMFBY shortfall indemnity triggers; Steel Blue markers denote normal yield.* |
 
 ---
